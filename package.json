@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "engines": {
-    "node": "12.19.x"
+    "node": "12.19.0",
+    "npm": "6.14.8"
   },
   "scripts": {
     "build": "bower install && grunt build",
