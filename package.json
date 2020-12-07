@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": {
-    "dev": "nodemon app.js"
-  },
   "engines": {
     "node": "12.19.x"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
   },
   "author": "Audie Milson",
   "license": "ISC",
