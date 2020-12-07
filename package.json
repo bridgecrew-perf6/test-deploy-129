@@ -7,6 +7,8 @@
     "node": "12.19.x"
   },
   "scripts": {
+    "build": "bower install && grunt build",
+    "start": "nf start",
     "dev": "nodemon app.js"
   },
   "author": "Audie Milson",
