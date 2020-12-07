@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "engines": {
-    "node": "12.19.0",
-    "npm": "6.14.8"
-  },
   "scripts": {
     "build": "bower install && grunt build",
     "start": "nf start",
@@ -25,5 +21,9 @@
     "node": "^15.3.0",
     "nodemailer": "^6.4.16",
     "nodemon": "^2.0.6"
+  },
+  "engines": {
+    "node": "12.19.0",
+    "npm": "6.14.8"
   }
 }
