@@ -6,6 +6,9 @@
   "scripts": {
     "dev": "nodemon app.js"
   },
+  "engines": {
+    "node": "12.19.x"
+  },
   "author": "Audie Milson",
   "license": "ISC",
   "dependencies": {
