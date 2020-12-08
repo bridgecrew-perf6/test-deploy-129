@@ -33,5 +33,6 @@ app.use("/", index);
 app.use("/auth", auth);
 app.use("/admin", adm);
 
+//pengganti app.listen sebelumnya
 app.listen(process.env.PORT||3000)
 console.log("Server runs at port 3000...");
